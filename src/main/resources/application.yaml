@@ -8,4 +8,4 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///Users/dmitrijafrosin/IdeaProjects/21/demo 2/src/main/resources/config
+          search-locations: file:///home/admin_d/projects/config-server/src/main/resources/config
