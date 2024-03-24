@@ -3,3 +3,10 @@ spring:
     url: jdbc:postgresql://localhost:5432/database_e
     username: postgres
     password: 5876
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://91.218.194.66:8889
+  instance:
+    prefer-ip-address: true
